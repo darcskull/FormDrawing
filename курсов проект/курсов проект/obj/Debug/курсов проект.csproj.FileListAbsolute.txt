@@ -1,0 +1,15 @@
+D:\c# 2\курсов проект\курсов проект\bin\Debug\курсов проект.exe.config
+D:\c# 2\курсов проект\курсов проект\bin\Debug\курсов проект.exe
+D:\c# 2\курсов проект\курсов проект\bin\Debug\курсов проект.pdb
+D:\c# 2\курсов проект\курсов проект\bin\Debug\Scene.dll
+D:\c# 2\курсов проект\курсов проект\bin\Debug\Shape.dll
+D:\c# 2\курсов проект\курсов проект\bin\Debug\Scene.pdb
+D:\c# 2\курсов проект\курсов проект\bin\Debug\Shape.pdb
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.csprojAssemblyReference.cache
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов_проект.FormScene.resources
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов_проект.Properties.Resources.resources
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.csproj.GenerateResource.cache
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.csproj.CoreCompileInputs.cache
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.csproj.CopyComplete
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.exe
+D:\c# 2\курсов проект\курсов проект\obj\Debug\курсов проект.pdb

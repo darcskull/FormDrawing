@@ -1,0 +1,9 @@
+D:\c# 2\курсов проект\Scene\bin\Debug\Scene.dll
+D:\c# 2\курсов проект\Scene\bin\Debug\Scene.pdb
+D:\c# 2\курсов проект\Scene\bin\Debug\Shape.dll
+D:\c# 2\курсов проект\Scene\bin\Debug\Shape.pdb
+D:\c# 2\курсов проект\Scene\obj\Debug\Scene.csprojAssemblyReference.cache
+D:\c# 2\курсов проект\Scene\obj\Debug\Scene.csproj.CoreCompileInputs.cache
+D:\c# 2\курсов проект\Scene\obj\Debug\Scene.csproj.CopyComplete
+D:\c# 2\курсов проект\Scene\obj\Debug\Scene.dll
+D:\c# 2\курсов проект\Scene\obj\Debug\Scene.pdb

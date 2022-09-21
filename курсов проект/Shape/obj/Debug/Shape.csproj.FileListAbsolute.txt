@@ -1,0 +1,6 @@
+D:\c# 2\курсов проект\Shape\bin\Debug\Shape.dll
+D:\c# 2\курсов проект\Shape\bin\Debug\Shape.pdb
+D:\c# 2\курсов проект\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+D:\c# 2\курсов проект\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\c# 2\курсов проект\Shape\obj\Debug\Shape.dll
+D:\c# 2\курсов проект\Shape\obj\Debug\Shape.pdb
